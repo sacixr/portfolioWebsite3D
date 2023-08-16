@@ -31,7 +31,7 @@ const About = () => {
         <h1 className={styles.sectionHeadText}>About Me.</h1>
       </motion.div>
       <motion.p variants={fadeIn("", "", 0.1, 1)}
-      className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
+      className='mt-4 text-secondary text-[17px] max-w-full leading-[30px] text-justify'>
         I'm a full-time MSci Undergraduate Student in my third year of study, although I do work part-time as a Supervisor at my University's Union Shop while upkeeping a personal blog. My passions lie primarily in AI and its developments, although I am also intrigued by Full-Stack Development and Sofwate Engineering in general. I have experience with Python, Java, JavaScript and Prolog (to name a few!) alongside frameworks like React and Node.js! In general, I am a Jack-Of-All-Trades - I love learning about everything and anything and as a quick learner, it comes quite naturally. Don't get me wrong though, I love a challenge. And as someone whose passions lie in real-world issues, those are the challenges I mainly want to conquer throughout my career. If you have any questions about me, my interests or anything else, drop me a message. I love discussions!
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">

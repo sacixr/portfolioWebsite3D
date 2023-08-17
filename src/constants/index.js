@@ -40,6 +40,7 @@ export const navLinks = [
   },
 ];
 
+{/*list of all titles*/}
 const services = [
   {
     title: "Full-Stack Developer",
@@ -114,6 +115,7 @@ const technologies = [
   },
 ];
 
+{/*work experience card information*/}
 const experiences = [
   {
     title: "Cadet Volunteer",

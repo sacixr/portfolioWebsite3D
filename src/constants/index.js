@@ -10,6 +10,7 @@ import {
   reactjs,
   redux,
   tailwind,
+  elephantsql,
   nodejs,
   mongodb,
   git,
@@ -22,7 +23,11 @@ import {
   jobit,
   tripguide,
   threejs,
-  rhul
+  rhul,
+  gitlab,
+  githublogo,
+  swiprolog,
+  python
 } from "../assets";
 
 export const navLinks = [
@@ -73,46 +78,42 @@ const technologies = [
     name: "JavaScript",
     icon: javascript,
   },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
+  
   {
     name: "React JS",
     icon: reactjs,
-  },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
   },
   {
     name: "Tailwind CSS",
     icon: tailwind,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "ElephantSQL",
+    icon: elephantsql,
   },
   {
     name: "Three JS",
     icon: threejs,
   },
   {
-    name: "git",
+    name: "Git",
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "Gitlab",
+    icon: gitlab
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "Github",
+    icon: githublogo
   },
+  {
+    name: "SWI-Prolog",
+    icon: swiprolog
+  },
+  { name:"Python",
+    icon: python 
+  }
 ];
 
 {/*work experience card information*/}

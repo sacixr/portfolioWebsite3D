@@ -28,6 +28,8 @@ import rhul from "./company/rhul.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import oaxaca from "./oaxaca.png";
+import portfolio from "./portfolio.png";
 
 export {
   logo,
@@ -56,5 +58,7 @@ export {
   gitlab,
   githublogo,
   swiprolog,
-  python
+  python,
+  oaxaca,
+  portfolio
 };

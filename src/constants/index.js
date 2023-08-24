@@ -21,7 +21,9 @@ import {
   gitlab,
   githublogo,
   swiprolog,
-  python
+  python,
+  oaxaca,
+  portfolio
 } from "../assets";
 
 export const navLinks = [
@@ -192,16 +194,16 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Oaxaca Restaurant Management System",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows a restaurant to manage orders on the waiter and kitchen side, completed as a Group Project. If you would like the source code, please contact me.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "elephantsql",
         color: "green-text-gradient",
       },
       {
@@ -209,28 +211,28 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: oaxaca,
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "3D Portfolio Website",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A simple portfolio website to work on my ability a bit more.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "three",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: portfolio,
     source_code_link: "https://github.com/",
   },
   {

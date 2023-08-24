@@ -212,7 +212,7 @@ const projects = [
       },
     ],
     image: oaxaca,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/sacixr",
   },
   {
     name: "3D Portfolio Website",
@@ -233,7 +233,7 @@ const projects = [
       },
     ],
     image: portfolio,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/sacixr",
   },
   {
     name: "Trip Guide",
@@ -254,7 +254,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/sacixr",
   },
 ];
 

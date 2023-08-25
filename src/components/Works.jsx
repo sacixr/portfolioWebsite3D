@@ -59,4 +59,4 @@ const Works = () => {
   )
 }
 
-export default SectionWrapper(Works, "works");
+export default SectionWrapper(Works, "work");

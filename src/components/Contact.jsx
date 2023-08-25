@@ -39,6 +39,10 @@ const Contact = () => {
             <span className="text-white">Your Message</span>
             <textarea rows="7" name="message" value={form.message} onChange={handleChange} placeholder="What's your message?" className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outlined-none border-none font-medium"/>
           </label>
+
+          <button type="submit" className="bg-tertiary py-3 px-8 outline-none w-fit text-white font-bold shadow-md shadow-primary rounded-xl">
+            {loading ? "Sending..." : "Send"}
+          </button>
         </form>
       </motion.div>
     </div>

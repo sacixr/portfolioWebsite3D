@@ -9,7 +9,7 @@ This README file is a formality, but also a way of me keeping track of my progre
 ## Important Note
 This website is not intended as my official personal portfolio - in fact, it is a way of me to initially practice the tools I will be using before I make the live version of my website.
 
-## Future Implementations
+## Future Ideas
 - Chatbot that answers questions about me.
 - TIC-TAC-TOE game with UI and undefeatable opponent, utilising a MIN-MAX algorithm.
     - Potentially expand this to different levels of difficulty of AI.
@@ -18,10 +18,10 @@ This website is not intended as my official personal portfolio - in fact, it is 
 - Blog snapshot incorporation.
 
 ## Project status
-Currently in very early stages of development.
+Finished! The website should run smoothly with all sections and a working contact me.
 
 ## Support
-If you find any issues on my website, please drop me an email at sacixr@gmail.com
+If you find any issues on the website, please drop me an email at sacixr@gmail.com
 
 ## Creditis
-Checkout JavaScript Mastery on youtube, and the tutorial which I followed here: https://www.youtube.com/watch?v=0fYi8SGA20k&t=3425s&ab_channel=JavaScriptMastery
+Checkout JavaScript Mastery on Youtube, and the tutorial which I followed here: https://www.youtube.com/watch?v=0fYi8SGA20k&t=3425s&ab_channel=JavaScriptMastery

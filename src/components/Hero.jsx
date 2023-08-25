@@ -16,7 +16,7 @@ const Hero = () => {
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I am a bilingual MSci Student who has an intense interest in everything AI. 
             I also have some interest in Full-Stack development and Software 
-            Engineering, although my passion lies in research and AI development.
+            Engineering.
           </p>
         </div>
       </div>
